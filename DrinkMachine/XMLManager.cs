@@ -8,5 +8,9 @@ namespace DrinkMachine
 {
     internal class XMLManager
     {
+        public XMLManager() { }
     }
+
+   
 }
+
