@@ -37,7 +37,7 @@
             this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(350, 170);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(120, 84);
+            this.listBox1.Size = new System.Drawing.Size(120, 124);
             this.listBox1.TabIndex = 0;
             // 
             // DrinkForm
